@@ -8,7 +8,7 @@
 
 <?php
 $username = 'cs4400_Group_106';
-$password = 'by8u50gY';
+$password = 'xxxxxxxx';
 $host = 'academic-mysql.cc.gatech.edu';
 $database = 'cs4400_Group_106';
 
